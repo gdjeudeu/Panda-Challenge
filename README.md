@@ -1,2 +1,2 @@
-# Panda-Challenge
+# Pandas-Challenge
 homework 4
